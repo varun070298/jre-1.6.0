@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registration_data version="1.0">
+   <environment>
+      <hostname>fortran</hostname>
+      <hostId>007f0101</hostId>
+      <osName>Linux</osName>
+      <osVersion>3.2.0-34-generic</osVersion>
+      <osArchitecture>amd64</osArchitecture>
+      <systemModel>x86_64</systemModel>
+      <systemManufacturer/>
+      <cpuManufacturer>GenuineIntel</cpuManufacturer>
+      <serialNumber/>
+   </environment>
+   <registry urn="urn:st:c9f0657d-4e3e-45d7-a569-a4ca681b2fcb" version="1.0">
+      <service_tag>
+         <instance_urn>urn:st:ecb83ecc-3ceb-437e-864c-43edabe8549a</instance_urn>
+         <product_name>Java SE 6 Development Kit</product_name>
+         <product_version>1.6.0_37</product_version>
+         <product_urn>urn:uuid:b58ef9a8-5ae8-11db-a023-080020a9ed93</product_urn>
+         <product_parent_urn>urn:uuid:fdc90b21-018d-4cab-b866-612c7c119ed3</product_parent_urn>
+         <product_parent>Java Platform Standard Edition 6 (Java SE 6)</product_parent>
+         <product_defined_inst_id>id=1.6.0_37-b06 amd64,dir=/home/luis/Documents/Qualitas Corpus/QualitasCorpus-20120401r/Systems/jre/jre-1.6.0/compressed/jdk1.6.0_37/jre</product_defined_inst_id>
+         <product_vendor>Sun Microsystems</product_vendor>
+         <platform_arch>amd64</platform_arch>
+         <timestamp>2012-12-12 14:00:11 GMT</timestamp>
+         <container>global</container>
+         <source>jdk-6u37-fcs-bin-b06-linux-amd64-24_sep_2012.bin</source>
+         <installer_uid>-1</installer_uid>
+      </service_tag>
+   </registry>
+</registration_data>
